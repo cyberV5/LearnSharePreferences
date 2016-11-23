@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LearnSharePreferences</string>
+    <string name="name">姓名</string>
+    <string name="password">密码</string>
+    <string name="email">邮箱</string>
+    <string name="phone">手机号</string>
+    <string name="save">保存</string>
+    <string name="read">读取</string>
+</resources>
